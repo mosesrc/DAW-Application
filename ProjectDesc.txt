@@ -1,0 +1,8 @@
+This project will be my attem to make an online DAW system. DAW systems allow you to do a number of things with audio.
+You can edit, record, and modify audio files. You can save your work and bounce out the tracks to a certain file type.
+
+05/17/2021 - Ryan C. Moses
+
+As of now I will try to build basic functionality, I want users to be able to:
+    -- Record a file 
+    -- play file back
